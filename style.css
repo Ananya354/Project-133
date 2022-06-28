@@ -1,0 +1,27 @@
+.navigationbutton{
+width: 500px;
+font-size: 25px;
+color: black;
+background-color: aquamarine;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#heading{
+width: 100%;
+font-size: 30px;
+color:crimson;
+font-family: Century Gothic;
+background-color: darksalmon;
+}
+
+canvas{
+border: 5px solid white;
+}
+
+#status {
+    font-size: 18px;
+}
+
+
+    
+
